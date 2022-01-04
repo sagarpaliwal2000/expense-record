@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expense-record/static/css/main.19183b32.css",
+    "main.js": "/expense-record/static/js/main.19c8a74d.js",
+    "static/js/498.1f7ecfe8.chunk.js": "/expense-record/static/js/498.1f7ecfe8.chunk.js",
+    "static/js/703.2d4a1e7a.chunk.js": "/expense-record/static/js/703.2d4a1e7a.chunk.js",
+    "static/js/587.a8ff917f.chunk.js": "/expense-record/static/js/587.a8ff917f.chunk.js",
+    "static/js/787.2950fb39.chunk.js": "/expense-record/static/js/787.2950fb39.chunk.js",
+    "static/media/home-bg.jpg": "/expense-record/static/media/home-bg.9672ca19df2d3e565662.jpg",
+    "static/media/card-image.jpg": "/expense-record/static/media/card-image.c6418cd230dd5e0eced1.jpg",
+    "index.html": "/expense-record/index.html",
+    "main.19183b32.css.map": "/expense-record/static/css/main.19183b32.css.map",
+    "main.19c8a74d.js.map": "/expense-record/static/js/main.19c8a74d.js.map",
+    "498.1f7ecfe8.chunk.js.map": "/expense-record/static/js/498.1f7ecfe8.chunk.js.map",
+    "703.2d4a1e7a.chunk.js.map": "/expense-record/static/js/703.2d4a1e7a.chunk.js.map",
+    "587.a8ff917f.chunk.js.map": "/expense-record/static/js/587.a8ff917f.chunk.js.map",
+    "787.2950fb39.chunk.js.map": "/expense-record/static/js/787.2950fb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19183b32.css",
+    "static/js/main.19c8a74d.js"
+  ]
+}
